@@ -1,0 +1,7 @@
+.vscode/
+bin/
+obj/
+obj
+appsettings.json
+webapp.csproj
+Migrations
